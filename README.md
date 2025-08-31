@@ -40,3 +40,16 @@ Walmart-Sales-Analysis/
 1. Clone the repository:
 bash
 git clone https://github.com/TejasBLD/Walmart-Sales-Analysis-.git
+## Install Dependencies
+pip install -r requirements.txt
+
+## Insights & Recommendations
+
+-**Shipping Modes:** Although Standard Class is most profitable overall, First Class yields higher average profit per order — consider promoting faster shipping for high-value customers.
+
+-**Regional Sales:** Some regions consistently outperform others — tailor marketing strategies region-wise.
+
+-**Customer Segments:** Focus on high-value customer retention to maximize profit.
+
+**License**
+This project is licensed under the MIT License.
