@@ -37,7 +37,7 @@ Walmart-Sales-Analysis/
 ├─ Sales_Analysis.ipynb # Main analysis notebook
 ├─ requirements.txt # Python dependencies
 └─ README.md # Project description 
-
+```
 ## 🚀 How to Run
 1. Clone the repository:
 bash
