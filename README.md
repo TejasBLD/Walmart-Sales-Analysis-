@@ -18,7 +18,6 @@ A comprehensive analysis of Walmart’s sales data to uncover patterns, trends, 
 - **Visualization:** Created graphs using Matplotlib and Seaborn:
   - Sales and profit by region and category  
   - Shipping mode analysis  
-  - Customer segmentation insights  
 - **Actionable Insights:** Derived meaningful conclusions and recommendations for Walmart’s business strategy.
 
 ---
